@@ -558,12 +558,24 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
 .clear-left {
   clear: left;
 }
 
 .clear-right {
   clear: right;
+}
+
+.clear-both {
+  clear: both;
 }
 
 .my-0 {
